@@ -1,4 +1,28 @@
 ## Publication list
+# FY2025
+- ID: C9)
+  title: "Climate change and ENSO significantly enhances seasonal flood occurrence in the Ganges-Brahmaputra-Meghna basin"
+  image:
+  authors: "Uddin, S., Yamazaki, D., Lintern, A., Revel, M., & Modi, P. "
+  description:
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2025.133207
+    display: "Journal of Hydrology, 658, 133207, https://doi.org/10.1016/j.jhydrol.2025.133207, 2025"
+  highlight: 0
+  rlab: 0
+  news2:
+- ID: C8)
+  title: "Benchmark Framework for Global River Models"
+  image:
+  authors: "Zhou, X., Yamazaki, D., Revel, M., Zhao, G., & Modi, P."
+  description:
+  link:
+    url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004379
+    display: "Journal of Advances in Modeling Earth Systems, 17, e2024MS004379, https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004379, 2025"
+  highlight: 0
+  rlab: 0
+  news2:
+# FY2025
 # FY2024
 - ID: R7)
   title: "AltiMaP: altimetry mapping procedure for hydrography data"
