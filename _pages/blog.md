@@ -1,7 +1,6 @@
 ---
 title: "Menaka Revel - Blog"
 layout: pagelay
-excerpt: "Menaka Revel -- Blog."
 sitemap: false
 permalink: /blog/
 ---
