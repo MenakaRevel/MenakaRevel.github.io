@@ -1,9 +1,9 @@
 ---
-title: "Menaka Revel - Home"
-layout: homelay
-excerpt: "Menaka Revel at UWaterloo"
+title: "Menaka Revel - Blog"
+layout: pagelay
+excerpt: "Menaka Revel -- Blog."
 sitemap: false
-permalink: /
+permalink: /blog/
 ---
 
 # Unlocking Rivers: How Satellite Data is Revolutionizing Global Water Management
