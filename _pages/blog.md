@@ -7,6 +7,6 @@ permalink: /blog/
 
 # Blog
 
-- [Unlocking Rivers: How Satellite Data is Revolutionizing Global Water Management](../blog_hydroda.md).
+- [Unlocking Rivers: How Satellite Data is Revolutionizing Global Water Management](../blog_hydroda/).
 - [Can SWOT see smaller lakes]
 - [Building Local Models using Local Calibration]
