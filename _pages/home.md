@@ -17,7 +17,7 @@ Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.githu
 
 
 ## Research Interests
-My primary research interests are hydrological modeling and integrating remote sensing data into models. Currently, I am working on observing Canadian lakes using the SWOT satellite. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
+My primary research interests are hydrological modeling and integrating remote sensing data into models. Currently, I am modelling Canadian lake-dominated watersheds and calibrating the models using remote sensing data such as SWOT. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
 
 ## Recent Updates
 ### 8 Jan, 2024
