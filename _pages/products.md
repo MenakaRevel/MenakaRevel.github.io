@@ -6,10 +6,15 @@ permalink: /products/
 ---
 
 # Products
-<!-- 
-## Data assimilation framework(../hydroda/)
- 
--->
+
+## Data assimilation framework(../prod_hydroda/)
+We present a global-scale data assimilation framework designed for hydrodynamic modeling of river discharge in support of the upcoming Surface Water and Ocean Topography (SWOT) mission. Built around the CaMa-Flood hydrodynamic model, the framework is developed to estimate river discharge accurately at global scales while maintaining low computational demands. To enhance the use of observational data, we implement a physically-based adaptive empirical localization method, allowing the framework to incorporate a large volume of observations efficiently.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_hydroda.jpg" width="50%" height="50%"/>
+
+[Further Reading ....](../prod_hydroda/)
+
+<br>
   
 ## [Empirical Local Patches for Data Assimilation](../prod_emplp/)
 Empirical local patches identify relevant areas of a river system for specific locations based on water level behavior. Instead of assuming all nearby points influence each other equally, this method analyzes actual patterns in simulated water surface elevation to pinpoint strong relationships. By eliminating trends and seasonal variations, it focuses on meaningful spatial connections to create custom patches. These patches can change in size depending on the river’s characteristics; for example, the Amazon has a broader influence than a smaller stream. This approach enhances the accuracy of river models and satellite data for predicting water levels. This method better reflects the actual correlations of the river network, moving beyond simplistic distance assumptions. In summary, empirical local patches strengthen the selection of observations, improving the precision of hydrologic data assimilation.
