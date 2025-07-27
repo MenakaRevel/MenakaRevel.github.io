@@ -12,7 +12,7 @@ We present a global-scale data assimilation framework designed for hydrodynamic 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_hydroda.jpg" width="30%" height="30%"/>
 
-<!-- [Further Reading ....](../prod_hydroda/) -->
+<!-- [Read more ....](../prod_hydroda/) -->
 
 <br>
   
@@ -21,7 +21,7 @@ Empirical local patches identify relevant areas of a river system for specific l
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_emplp.jpg" width="50%" height="50%"/>
 
-[Further Reading ....](../prod_emplp/)
+[Read more ....](../prod_emplp/)
 
 <br>
 
@@ -30,7 +30,7 @@ Satellite altimetry is an essential tool for monitoring river water levels and e
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_altimap.jpg" width="50%" height="50%"/>
 
-<!-- [Further Reading ....](../prod_altimap/) -->
+<!-- [Read more ....](../prod_altimap/) -->
 
 <!--
 - Calibration of the hydrological model using remote sensing data(../lakecal/)
