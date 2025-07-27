@@ -19,8 +19,10 @@ Three types of data assimilation experiments were performed: direct assimilation
 ### Global Data Assimilation
 Assimilation was found to perform effectively in large rivers, particularly in downstream regions, due to the frequent correction of upstream discharge. Assimilation efficiency was strongly influenced by two primary factors: the correction of local state variables and the adjustment of upstream inflow. Higher efficiency was observed in rivers located at higher latitudes and in large continental-scale rivers.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_globnseai.jpg" width="30%" height="30%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_globnseai.jpg" width="50%" height="50%"/>
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_bestdamethod.jpg" width="50%" height="50%"/>
 
+- [Revel et al, (2021)](https://doi.org/10.1029/2020WR027876)
+- [Revel et al, (2023)](https://doi.org/10.5194/hess-27-647-2023)
