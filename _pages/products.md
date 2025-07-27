@@ -12,7 +12,7 @@ We present a global-scale data assimilation framework designed for hydrodynamic 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_hydroda.jpg" width="30%" height="30%"/>
 
-<!-- [Read more ....](../prod_hydroda/) -->
+[Read more ....](../prod_hydroda/)
 
 <br>
   
