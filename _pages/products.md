@@ -10,7 +10,7 @@ permalink: /products/
 ## [Data assimilation framework](../prod_hydroda/)
 We present a global-scale data assimilation framework designed for hydrodynamic modeling of river discharge in support of the Surface Water and Ocean Topography (SWOT) satellite mission. Built around the CaMa-Flood hydrodynamic model, the framework is developed to estimate river discharge accurately at global scales while maintaining low computational demands. To enhance the use of observational data, we implement a physically-based adaptive empirical localization method, allowing the framework to incorporate a large volume of observations efficiently. Moreover, the framework may apply various data assimilation techniques, allowing hydrodynamic models to mature over time.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_hydroda.jpg" width="50%" height="50%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_hydroda.jpg" width="30%" height="30%"/>
 
 <!-- [Further Reading ....](../prod_hydroda/) -->
 
@@ -26,7 +26,7 @@ Empirical local patches identify relevant areas of a river system for specific l
 <br>
 
 ## [Altimetry Mapping Procedure for Global River Models](../prod_altimap/)
-Satellite altimetry is an essential tool for monitoring river water levels and enhancing hydrodynamic models. However, linking satellite measurements, taken at specific points known as virtual stations (VSs), to river model grids can be difficult due to alignment issues. To address this, an Automated Altimetry Mapping Procedure was developed. This method automatically matches each virtual station (such as from the HydroWeb database)  to the nearest location in the river network map (e.g., MERIT Hydro), factoring in land cover and river structure. Stations are categorized based on their proximity to rivers, including flags for those directly on rivers, on nearby land, or within complex features like multi-channel rivers or the ocean. By utilizing AltiMaP, researchers can more accurately identify suitable satellite points for model evaluation, reducing mapping errors and improving the connection between satellite data and model simulations. This method builds on the work of Revel et al. and is available for wider use in the hydrology community.
+Satellite altimetry is an essential tool for monitoring river water levels and enhancing hydrodynamic models. However, linking satellite measurements, taken at specific points known as virtual stations (VSs), to river model grids can be difficult due to alignment issues. To address this, an Automated Altimetry Mapping Procedure was developed. This method automatically matches each virtual station (such as from the HydroWeb database)  to the nearest location in the river network map (e.g., MERIT Hydro), factoring in land cover and river structure. Stations are categorized based on their proximity to rivers, including flags for those directly on rivers, on nearby land, or within complex features like multi-channel rivers or the ocean. By utilizing AltiMaP, researchers can more accurately identify suitable satellite points for model evaluation, reducing mapping errors and improving the connection between satellite data and model simulations. This method builds on the work of [Revel et al. (2024)](https://doi.org/10.5194/essd-16-75-2024) and is available for wider use in the hydrology community.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_altimap.jpg" width="50%" height="50%"/>
 
