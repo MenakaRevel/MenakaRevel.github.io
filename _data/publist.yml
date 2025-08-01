@@ -24,6 +24,39 @@
   news2:
 # FY2025
 # FY2024
+- ID: P15)
+  title: "Satellite Data Integration in Hydrological Modeling: Assessing the CanadianShield Watershed's Lake Dynamics"
+  image:
+  authors: "Revel, M., Tolson, B., Han, M., Metcalfe, R., & Craig, J."
+  description: "H33V - Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands I Oral"
+  link:
+    url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497
+    display: "AGU (American Geophysical Union) Fall Meeting, Washington,D.C., December 2024"
+  highlight: 0
+  rlab: 2
+  news2:
+- ID: P14)
+  title: "Integrating SWOT Observations into CaMa-Flood: A Data Assimilation Framework for enhancing Surface Water DynamicsEstimation"
+  image:
+  authors: "Revel, M., & Yamazaki, D."
+  description: "H31Z - The Surface Water and Ocean Topography (SWOT) Mission: New Frontiers in Hydrology V Poster"
+  link:
+    url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802
+    display: "AGU (American Geophysical Union) Fall Meeting, Washington,D.C., December 2024"
+  highlight: 0
+  rlab: 2
+  news2:
+- ID: P13)
+  title: "Harnessing Landsat Observations of Lakes for Enhanced HydrologicalModelling in Canadian Shield Watersheds"
+  image:
+  authors: "Revel, M., Tolson, B., Han, M., Metcalfe, R., & Craig, J."
+  description: "H4B. Hydrometeorology of lakes and reservoirs"
+  link:
+    url: https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds
+    display: "Annual Meeting of the CGU(Canadian Geophysical Union), Ottawa, Canada, May 2024"
+  highlight: 0
+  rlab: 2
+  news2:
 - ID: R7)
   title: "AltiMaP: altimetry mapping procedure for hydrography data"
   image: Revel2024ESSD.jpg
@@ -36,6 +69,28 @@
   rlab: 1
   news2:
 # FY2023
+- ID: P12)
+  title: "LeveragingSWOT Observations for Improved Water Management: Data Assimilation ofHuman-Regulated River Discharge in Large Rivers"
+  image:
+  authors: "Revel, M., Boulange, J. Yamazaki, D., & Hanasaki, N."
+  description: "[A-CG42] Water and sediment dynamics from land to coastal zones"
+  link:
+    url: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1334632
+    display: "AGU (American Geophysical Union) Fall Meeting, San Francisco, December 2023"
+  highlight: 0
+  rlab: 2
+  news2:
+- ID: P11)
+  title: "Data Assimilation for Estimating Human-Regulated River Flow Dynamics"
+  image:
+  authors: "Revel, M., Boulange, J. Yamazaki, D., & Hanasaki, N."
+  description: "[A-CG42] Water and sediment dynamics from land to coastal zones"
+  link:
+    url: https://confit.atlas.jp/guide/event/jpgu2023/subject/ACG42-08/advanced
+    display: "JpGU (Japan Geoscience Union) Meeting, Mukhari, Japan, May 2023"
+  highlight: 0
+  rlab: 2
+  news2:
 - ID: C7)
   title: "Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh"
   image:
