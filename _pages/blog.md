@@ -14,7 +14,7 @@ Rivers are the arteries of our planet, carrying life-sustaining water across con
 
 <br>
 
-- [Advances in Global Flood Hazard Mapping: From Regional Models to High-Resolution Global Coverage](../blog_floodmap/)
+## [Advances in Global Flood Hazard Mapping: From Regional Models to High-Resolution Global Coverage](../blog_floodmap/)
 Over the past ten years or so, flood hazard modeling has taken some big steps forward. What once relied heavily on region-specific tools and disparate methodologies is now evolving into a more coherent, globally consistent effort. A handful of landmark international studies—four, in particular, spanning from 2015 to 2024—along with Canada’s own national push to standardize flood hazard delineation, highlight a shift: from patchy, regional maps to detailed, climate-aware global coverage that’s more than just technically sound—it’s designed for real-world application.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/blogpic/blog_floodmap.jpg" width="50%" height="50%"/>
