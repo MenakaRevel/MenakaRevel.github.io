@@ -30,7 +30,7 @@ Satellite altimetry is an essential tool for monitoring river water levels and e
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_altimap.jpg" width="50%" height="50%"/>
 
-<!-- [Read more ....](../prod_altimap/) -->
+[Read more ....](../prod_altimap/)
 
 <!--
 - Calibration of the hydrological model using remote sensing data(../lakecal/)
