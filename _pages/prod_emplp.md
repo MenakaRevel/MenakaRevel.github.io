@@ -43,4 +43,5 @@ The size of each empirical local patch is determined by the river hydrodynamics.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_maplocalpatch.jpg" width="50%" height="50%"/>
 
-- [Revel et al (2019)](https://doi.org/10.2208/jscejhe.74.5_I_157)
+- [Revel et al (2019)](https://www.mdpi.com/2073-4441/11/4/829)
+- [Revel et al (2018)](https://doi.org/10.2208/jscejhe.74.5_I_157)

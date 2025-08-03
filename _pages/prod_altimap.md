@@ -1,0 +1,24 @@
+---
+title: "Menaka Revel - Products"
+layout: pagelay
+sitemap: false
+permalink: /prod_altimap/
+---
+
+## Altimetry Mapping Procedure for Global River Models
+Freshwater scarcity poses a growing threat to future generations, making accurate monitoring of water resources essential for understanding availability and usage patterns. While global hydrodynamic models can simulate continental surface water dynamics, they require calibration using observed data like water surface elevation, river discharge, and surface area - yet the sparse network of stream gauges often proves inadequate for this task. Satellite altimetry has emerged as a promising solution over the past three decades, offering reasonably precise measurements of terrestrial water levels with uncertainties ranging from centimeters to decimeters, depending on the specific environment and equipment used. These satellites determine water surface elevations by measuring radar or laser travel times, though the process involves complex corrections for atmospheric and tidal effects. Multiple missions - from TOPEX/Poseidon to the newer Sentinel series - have provided valuable data through "virtual stations" where satellite tracks intersect water bodies, allowing successive water level measurements at each pass. However, this approach faces significant challenges: river characteristics, surrounding topography, and land cover all influence measurement accuracy in ways that remain difficult to predict. Perhaps more problematically, the mismatch between virtual station locations and actual river networks in hydrodynamic models can introduce substantial biases, particularly since rivers have continuous slopes while model grids create artificial discontinuities. The authors address this limitation by introducing AltiMaP, an automated mapping procedure designed to better align satellite observations with model river networks, potentially improving our ability to validate and calibrate large-scale hydrodynamic models on a global scale.
+
+### Data Requirements for AltiMaP
+#### Satellite Altimetry Dataset
+The system needs a comprehensive list of satellite altimetry observations that includes the initial virtual station coordinates and complete time series of water surface elevation measurements. This allows the algorithm to calculate mean observations and understand temporal patterns at each location.
+#### High-Resolution Hydrography Information
+Detailed hydrographic data serves as the foundation for accurate mapping, encompassing flow direction maps, land-water classification boundaries, upstream drainage area calculations, and other hydrological characteristics. This fine-scale information helps bridge the gap between satellite observations and model representations.
+#### Coarse-Resolution River Network
+A generalized river map at coarser resolution provides the framework for generating model-compatible parameters and establishing connections between high-resolution hydrographic details and the simplified river networks used in large-scale hydrodynamic models.
+
+### Output variables of AltiMaP
+The AltiMaP dataset provides comprehensive information for each virtual station (VS), with variables organized into three main categories. The VS metadata includes basic identifiers like station ID, name, coordinates, and the associated satellite mission. More technically significant are the parameters linking each VS to the high-resolution MERIT Hydro river network - these can be adapted for other river datasets using the flagging and allocation methods described in the study, with an additional flag increment of 100 for biased stations. A particularly useful metric is the distance from each mapped VS to its unit-catchment river mouth, which helps explain discrepancies between simulated and observed water surface dynamics. The system identifies both primary and secondary candidate locations for VS placement along the MERIT Hydro river centerline (though this isn't available for single-channel rivers), reporting the geometric distances from the original VS position to these options. River width calculations at each VS location use satellite-based water masks combined with flow direction data. Finally, the dataset includes coarse-resolution variables for integration with large-scale hydrodynamic models, providing x-y coordinates for the coarse-resolution river map and elevation references from both EGM08 and EGM96 gravitational models. The complete dataset appears to offer researchers a ready-to-use resource for improving satellite altimetry integration in hydrodynamic modeling applications.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_altimaptable.jpg" width="50%" height="50%"/>
+
+- [Revel et al (2014)](https://essd.copernicus.org/articles/16/75/2024/)
