@@ -3,7 +3,7 @@ title: "Menaka Revel - News"
 layout: textlay
 excerpt: "Menaka Revel at UWaterloo"
 sitemap: false
-permalink: /allnews/
+permalink: /allnews.html
 ---
 
 # News
