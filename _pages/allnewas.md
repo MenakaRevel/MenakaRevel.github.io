@@ -6,9 +6,9 @@ permalink: /allnews.html
 ---
 
 # News
-<div class="news-list">
+<div>
   {% for article in site.data.news %}
-    <div class="news-item" style="margin-bottom: 1.5em;">
+    <div>
       <p>
         <strong>{{ article.date }}</strong><br>
         {{ article.headline | markdownify }}
