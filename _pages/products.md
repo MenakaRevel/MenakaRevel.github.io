@@ -5,7 +5,7 @@ sitemap: false
 permalink: /products/
 ---
 
-# Products
+# Research
 
 ## [Data assimilation framework](../prod_hydroda/)
 We present a global-scale data assimilation framework designed for hydrodynamic modeling of river discharge in support of the Surface Water and Ocean Topography (SWOT) satellite mission. Built around the CaMa-Flood hydrodynamic model, the framework is developed to estimate river discharge accurately at global scales while maintaining low computational demands. To enhance the use of observational data, we implement a physically-based adaptive empirical localization method, allowing the framework to incorporate a large volume of observations efficiently. Moreover, the framework may apply various data assimilation techniques, allowing hydrodynamic models to mature over time.
