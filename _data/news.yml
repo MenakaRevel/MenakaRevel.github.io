@@ -1,43 +1,43 @@
 - date: 8 Jan, 2024
-  headline: 'AltiMaP paper published'
-  description: 'Our paper on the AltiMaP method for allocating satellite altimetry to river models is out in Earth System Science Data. [Read it here](https://doi.org/10.5194/essd-16-75-2024).'
+  headline: '[AltiMaP paper published](https://doi.org/10.5194/essd-16-75-2024)'
+  description: 'Our paper on the AltiMaP method for mapping satellite altimetry onto river models is now published in Earth System Science Data. [Read it here](https://doi.org/10.5194/essd-16-75-2024).'
 
 - date: 5 July, 2023
-  headline: 'Res-CN dataset released'
-  description: 'We published a large-scale reservoir dataset covering 3254 sites across China in ESSD. It includes hydrometeorological and landscape data. [Check it out](https://doi.org/10.5194/essd-15-2781-2023).'
+  headline: '[Res-CN dataset released](https://doi.org/10.5194/essd-15-2781-2023)'
+  description: 'We released a reservoir dataset covering 3254 Chinese reservoirs, including hydroclimatic time series and landscape features. [Explore the data](https://doi.org/10.5194/essd-15-2781-2023).'
 
 - date: 7 Feb, 2023
-  headline: 'Amazon floodplain changes study'
-  description: 'Our research shows that annual maximum floods in the Amazon have increased by 23% since 1980. Published in Environmental Research Letters. [Read the study](https://doi.org/10.1088/1748-9326/acb9a7).'
+  headline: '[Amazon floodplain study published](https://doi.org/10.1088/1748-9326/acb9a7)'
+  description: 'Our work reveals a 23% increase in annual maximum floods in the Amazon since 1980. [Read the Environmental Research Letters paper](https://doi.org/10.1088/1748-9326/acb9a7).'
 
 - date: 2 Feb, 2023
-  headline: 'SWOT assimilation in HESS'
-  description: 'This paper explores how assimilating satellite water surface elevation improves river discharge estimates at continental scale. [Read the paper](https://doi.org/10.5194/hess-27-647-2023).'
+  headline: '[SWOT altimetry assimilation in HESS](https://doi.org/10.5194/hess-27-647-2023)'
+  description: 'We tested multiple methods for assimilating satellite altimetry into large-scale river discharge models. [Check out the study](https://doi.org/10.5194/hess-27-647-2023).'
 
 - date: 15 Aug, 2022
-  headline: 'Hydrodynamic model evaluation'
-  description: 'We proposed a new method to evaluate hydrodynamic models using multiple variables. Published in Water Resources Research. [Full article here](https://doi.org/10.1029/2021WR031819).'
+  headline: '[Model evaluation method published](https://doi.org/10.1029/2021WR031819)'
+  description: 'We developed a multivariable evaluation framework for river models using different topographic datasets. [Read the WRR paper](https://doi.org/10.1029/2021WR031819).'
 
 - date: 2 June, 2022
-  headline: 'How much flooding in the Amazon?'
-  description: 'This paper compares 29 datasets of Amazon flood extent from remote sensing and models. Explore the [WebGIS tool](https://amazon-inundation.herokuapp.com/) or [read the paper](https://doi.org/10.1016/j.rse.2022.113099).'
+  headline: '[Amazon inundation comparison](https://doi.org/10.1016/j.rse.2022.113099)'
+  description: 'This study compares 29 flood extent datasets in the Amazon Basin using remote sensing and models. Explore the [WebGIS tool](https://amazon-inundation.herokuapp.com/) or [read the paper](https://doi.org/10.1016/j.rse.2022.113099).'
 
 - date: 29 Mar, 2022
-  headline: 'River bathymetry correction study'
-  description: 'We proposed a method to improve river depth parameters using rating curves and satellite/in-situ data. Published in WRR. [See the paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226).'
+  headline: '[River bathymetry correction method](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226)'
+  description: 'We proposed a new approach to correct riverbed profiles using rating curves and satellite data. [View the paper in WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226).'
 
 - date: 8 Dec, 2020
-  headline: 'Global discharge estimation framework'
-  description: 'Our framework estimates global river discharge by assimilating satellite altimetry, published in WRR. [Read more](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876).'
+  headline: '[Global discharge estimation framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876)'
+  description: 'Our framework combines altimetry data and hydrologic modeling to estimate global river discharge. [Read more in WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876).'
 
 - date: 01 Oct, 2019
-  headline: 'Joined UTokyo as Project Researcher'
-  description: 'I started working at the Institute of Industrial Science, University of Tokyo, focusing on satellite hydrology and modeling. [Institute site](https://www.iis.u-tokyo.ac.jp/en/).'
+  headline: '[Joined UTokyo as Project Researcher](https://www.iis.u-tokyo.ac.jp/en/)'
+  description: 'I started working at the Institute of Industrial Science, University of Tokyo, focusing on large-scale hydrology and satellite remote sensing. [Learn more](https://www.iis.u-tokyo.ac.jp/en/).'
 
 - date: 20 Sept, 2019
-  headline: 'PhD completed at Tokyo Tech'
-  description: 'I received my Ph.D. from Tokyo Institute of Technology, specializing in hydrologic modeling and satellite data assimilation. [University website](https://www.titech.ac.jp/english/).'
+  headline: '[Completed Ph.D. at Tokyo Tech](https://www.titech.ac.jp/english/)'
+  description: 'Graduated with a Ph.D. in hydrology and satellite data assimilation from Tokyo Institute of Technology. [View the institute](https://www.titech.ac.jp/english/).'
 
 - date: 19 April, 2019
-  headline: 'SWOT assimilation in Congo Basin'
-  description: 'We developed a method to assimilate synthetic SWOT data for river discharge estimation, applied to the Congo Basin. [Read the paper](https://www.mdpi.com/2073-4441/11/4/829).'
+  headline: '[SWOT assimilation in Congo Basin](https://www.mdpi.com/2073-4441/11/4/829)'
+  description: 'We developed a localization method for assimilating SWOT altimetry into river models, demonstrated in the Congo Basin. [Read the Water journal paper](https://www.mdpi.com/2073-4441/11/4/829).'
