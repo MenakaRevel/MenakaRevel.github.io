@@ -21,7 +21,7 @@ My primary research interests are hydrological modeling and integrating remote s
 
 {% include slider.html %}
 
-## Recent Updates
+<!-- ## Recent Updates
 ### 8 Jan, 2024
 A data description paper was published in Earth System Science Data, [AltiMaP: altimetry mapping procedure for hydrography data](https://doi.org/10.5194/essd-16-75-2024). In this study, we developed an automated method to allocate satellite altimetry data on rivers to global hydrodynamic models.
 
@@ -54,4 +54,4 @@ Strated working as a Project Researcher in [Institute of Industrial Science]("ht
 Graduated Ph.D. from [Tokyo Institute of Technology]("https://www.titech.ac.jp/english/").
    
 ### 19 April, 2019
-A Journal paper has been published in Water. [A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental-Scale River: A Case Study in the Congo Basin]("https://www.mdpi.com/2073-4441/11/4/829"), A novel apporach to hydrological data assimilation was prposed.
+A Journal paper has been published in Water. [A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental-Scale River: A Case Study in the Congo Basin]("https://www.mdpi.com/2073-4441/11/4/829"), A novel apporach to hydrological data assimilation was prposed. -->
