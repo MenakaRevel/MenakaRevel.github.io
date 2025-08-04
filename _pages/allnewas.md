@@ -1,6 +1,6 @@
 ---
 title: "Menaka Revel - News"
-layout: pagelay
+layout: textlay
 sitemap: false
 permalink: /allnews.html
 ---
