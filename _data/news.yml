@@ -1,55 +1,55 @@
 - date: 11 Dec, 2024
-  headline: '[Menaka presented in AGU@Washington D.C.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497)'
-  description: '*Menaka Revel spoke at AGU's H33V session on Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands, where he presented on the use of satellite data to improve the accuracy of hydrological models, with a particular emphasis on capturing lake dynamics and surface water behavior.* [See the abstract here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497).'
+  headline: "[Menaka presented in AGU@Washington D.C.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497)"
+  description: "*Menaka Revel spoke at AGU's H33V session on Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands, where he presented on the use of satellite data to improve the accuracy of hydrological models, with a particular emphasis on capturing lake dynamics and surface water behavior.* [See the abstract here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497)."
 
 - date: 11 Dec, 2024
-  headline: '[Menaka's poster at AGU, Washington D.C.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802)'
-  description: '*Menaka Revel presented a poster titled Integrating SWOT Observations into CaMa-Flood: A Data Assimilation Framework for Enhancing Surface Water Dynamics Estimation at AGU 2024, during the session H31Z – The Surface Water and Ocean Topography (SWOT) Mission: New Frontiers in Hydrology V (Poster).* [Read more](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802).'
+  headline: "[Menaka's poster at AGU, Washington D.C.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802)"
+  description: "*Menaka Revel presented a poster titled Integrating SWOT Observations into CaMa-Flood: A Data Assimilation Framework for Enhancing Surface Water Dynamics Estimation at AGU 2024, during the session H31Z – The Surface Water and Ocean Topography (SWOT) Mission: New Frontiers in Hydrology V (Poster).* [Read more](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802)."
 
 - date: 29 May, 2024
-  headline: '[Menaka presented in CGU@Ottawa](https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds)'
-  description: '*Menaka Revel presented about calibrating lake-dominated watershed model using Landsat imagery in CGU, Carleton University, Ottawa.* [Abstract](https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds).'
+  headline: "[Menaka presented in CGU@Ottawa](https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds)"
+  description: "*Menaka Revel presented about calibrating lake-dominated watershed model using Landsat imagery in CGU, Carleton University, Ottawa.* [Abstract](https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds)."
 
 - date: 8 Jan, 2024
-  headline: '[AltiMaP paper published](https://doi.org/10.5194/essd-16-75-2024)'
-  description: '*Our paper on the AltiMaP method for mapping satellite altimetry onto river models is now published in Earth System Science Data.* [Read it here](https://doi.org/10.5194/essd-16-75-2024).'
+  headline: "[AltiMaP paper published](https://doi.org/10.5194/essd-16-75-2024)"
+  description: "*Our paper on the AltiMaP method for mapping satellite altimetry onto river models is now published in Earth System Science Data.* [Read it here](https://doi.org/10.5194/essd-16-75-2024)."
 
 - date: 5 July, 2023
-  headline: '[Res-CN dataset released](https://doi.org/10.5194/essd-15-2781-2023)'
-  description: '*We published a new dataset covering 3254 Chinese reservoirs with hydroclimatic time series and catchment features published in Earth System Science Data.* [Explore the data](https://doi.org/10.5194/essd-15-2781-2023).'
+  headline: "[Res-CN dataset released](https://doi.org/10.5194/essd-15-2781-2023)"
+  description: "*We published a new dataset covering 3254 Chinese reservoirs with hydroclimatic time series and catchment features published in Earth System Science Data.* [Explore the data](https://doi.org/10.5194/essd-15-2781-2023)."
 
 - date: 7 Feb, 2023
-  headline: '[Amazon floodplain study published](https://doi.org/10.1088/1748-9326/acb9a7)'
-  description: '*Our study found a 23% increase in annual maximum floods in the Amazon since 1980.* [Read the paper](https://doi.org/10.1088/1748-9326/acb9a7).'
+  headline: "[Amazon floodplain study published](https://doi.org/10.1088/1748-9326/acb9a7)"
+  description: "*Our study found a 23% increase in annual maximum floods in the Amazon since 1980.* [Read the paper](https://doi.org/10.1088/1748-9326/acb9a7)."
 
 - date: 2 Feb, 2023
-  headline: '[Satellite altimetry assimilation methods](https://doi.org/10.5194/hess-27-647-2023)'
-  description: '*We explored different methods to assimilate satellite altimetry for improving river discharge estimates at continental scale.* [Check out the study in HESS](https://doi.org/10.5194/hess-27-647-2023).'
+  headline: "[Satellite altimetry assimilation methods](https://doi.org/10.5194/hess-27-647-2023)"
+  description: "*We explored different methods to assimilate satellite altimetry for improving river discharge estimates at continental scale.* [Check out the study in HESS](https://doi.org/10.5194/hess-27-647-2023)."
 
 - date: 15 Aug, 2022
-  headline: '[Model evaluation method published](https://doi.org/10.1029/2021WR031819)'
-  description: '*We proposed a new framework to evaluate hydrodynamic models using multivariable integration.* [Read the WRR paper](https://doi.org/10.1029/2021WR031819).'
+  headline: "[Model evaluation method published](https://doi.org/10.1029/2021WR031819)"
+  description: "*We proposed a new framework to evaluate hydrodynamic models using multivariable integration.* [Read the WRR paper](https://doi.org/10.1029/2021WR031819)."
 
 - date: 2 June, 2022
-  headline: '[Amazon inundation comparison](https://doi.org/10.1016/j.rse.2022.113099)'
-  description: '*This paper compares 29 flood extent datasets in the Amazon using satellite observations and modeling.* Explore the [WebGIS tool](https://amazon-inundation.herokuapp.com/) or [read the article](https://doi.org/10.1016/j.rse.2022.113099).'
+  headline: "[Amazon inundation comparison](https://doi.org/10.1016/j.rse.2022.113099)"
+  description: "*This paper compares 29 flood extent datasets in the Amazon using satellite observations and modeling.* Explore the [WebGIS tool](https://amazon-inundation.herokuapp.com/) or [read the article](https://doi.org/10.1016/j.rse.2022.113099)."
 
 - date: 29 Mar, 2022
-  headline: '[River bathymetry correction method](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226)'
-  description: '*We introduced a method to correct riverbed profiles using stage-discharge rating curves and satellite/in-situ data.* [View the paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226).'
+  headline: "[River bathymetry correction method](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226)"
+  description: "*We introduced a method to correct riverbed profiles using stage-discharge rating curves and satellite/in-situ data.* [View the paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226)."
 
 - date: 8 Dec, 2020
-  headline: '[Global discharge estimation framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876)'
-  description: '*We developed a global framework for estimating river discharge by assimilating satellite altimetry.* [Read more in WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876).'
+  headline: "[Global discharge estimation framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876)"
+  description: "*We developed a global framework for estimating river discharge by assimilating satellite altimetry.* [Read more in WRR](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876)."
 
 - date: 01 Oct, 2019
-  headline: '[Joined UTokyo as Project Researcher](https://www.iis.u-tokyo.ac.jp/en/)'
-  description: '*Started working at the Institute of Industrial Science, The University of Tokyo, focusing on satellite hydrology.* [Visit the institute](https://www.iis.u-tokyo.ac.jp/en/).'
+  headline: "[Joined UTokyo as Project Researcher](https://www.iis.u-tokyo.ac.jp/en/)"
+  description: "*Started working at the Institute of Industrial Science, The University of Tokyo, focusing on satellite hydrology.* [Visit the institute](https://www.iis.u-tokyo.ac.jp/en/)."
 
 - date: 20 Sept, 2019
-  headline: '[Completed Ph.D. at Tokyo Tech](https://www.titech.ac.jp/english/)'
-  description: '*Graduated with a Ph.D. in hydrology and satellite data assimilation from Tokyo Institute of Technology.* [University site](https://www.titech.ac.jp/english/).'
+  headline: "[Completed Ph.D. at Tokyo Tech](https://www.titech.ac.jp/english/)"
+  description: "*Graduated with a Ph.D. in hydrology and satellite data assimilation from Tokyo Institute of Technology.* [University site](https://www.titech.ac.jp/english/)."
 
 - date: 19 April, 2019
-  headline: '[SWOT assimilation in Congo Basin](https://www.mdpi.com/2073-4441/11/4/829)'
-  description: '*We developed a localization method for assimilating SWOT altimetry data into large-scale river models.* [Read the Water journal paper](https://www.mdpi.com/2073-4441/11/4/829).'
+  headline: "[SWOT assimilation in Congo Basin](https://www.mdpi.com/2073-4441/11/4/829)"
+  description: "*We developed a localization method for assimilating SWOT altimetry data into large-scale river models.* [Read the Water journal paper](https://www.mdpi.com/2073-4441/11/4/829)."
