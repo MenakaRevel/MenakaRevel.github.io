@@ -5,8 +5,9 @@ excerpt: "Menaka Revel at UWaterloo"
 sitemap: false
 permalink: /
 ---
-# Welcome!
-I pursued the intersection of data assimilation, remote sensing, and hydrological modeling during my training as an environmental modeler and hydrologist. By incorporating satellite measurements like altimetry and SWOT into routing models like [CaMa-Flood]("https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/"), and [Raven]("https://raven.uwaterloo.ca/"), my study aims to improve the realism and forecasting ability of large-scale hydrological models.
+# Welcome
+
+I specialized the intersection of data assimilation, remote sensing, and hydrological modeling. By incorporating satellite measurements like satellite altimetry and surface water extent data into routing models like [CaMa-Flood]("https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/"), and [Raven]("https://raven.uwaterloo.ca/"), I aim to improve the realism and forecasting ability of large-scale hydrological models.
 
 Currently, I am working as a postdoctoral fellow in the [Department of Civil and Environmental Engineering, Faculty of Engineering, University of Waterloo]("https://uwaterloo.ca/civil-environmental-engineering/"), where I contribute to the [Hydrology Group]("https://uwaterloo.ca/scholar/btolson/people-0").
 
@@ -16,10 +17,11 @@ Previously, I served as a Project Researcher in the [Global Hydrodynamics Lab]("
 
 Please visit Global Hydrodynamics Lab at the University of Tokyo [here]("https://global-hydrodynamics.github.io/").
 
-My dedication to open science and data accessibility has been a recurring theme in my work. Through user-centered, web-based platforms, I actively create tools and procedures that facilitate the exchange of data, model configurations, and research outcomes. The goal of my work is to close the gap between large end-user groups and sophisticated hydrological systems. Please visit my [GitHub page]("https://github.com/menaka-revel").
+My dedication to open science and data accessibility has been a recurring theme in my work. Through user-centered, web-based platforms, I actively create tools and procedures that facilitate the exchange of data, model configurations, and research outcomes. The goal of my work is to close the gap between large end-user groups and sophisticated hydrological systems. Please visit my [GitHub page]("https://github.com/menaka-revel") for the resources for hydrological modellers.
 
 ## Research Interests
-My primary research interests are hydrological modeling and integrating remote sensing data into models. Currently, I am modelling Canadian lake-dominated watersheds and calibrating the models using remote sensing data such as SWOT. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
+
+My primary research interests are hydrological modeling and integrating remote sensing data into models. Currently, I am modelling Canadian lake-dominated watersheds and calibrating the models like [Raven](https://github.com/CSHS-CWRA/RavenHydroFramework) using remote sensing data such as Landsat, Sentinel, and SWOT. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
 
 {% include slider.html %}
 
