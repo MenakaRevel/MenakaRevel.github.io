@@ -1,3 +1,11 @@
+- date: 28 Mar, 2025
+  headline: "[Climate change and ENSO enhances seasonal flood](https://doi.org/10.1016/j.jhydrol.2025.133207)"
+  description: "*We investigated the impact of climate change and ENSO on flood occurrence in the Ganges-Brahmaputra-Meghna basin, using a large ensemble climate simulation database and a catchment-based macro-scale floodplain model, finding that climate change increases the occurrence probability of 10-year return period maximum discharge in the pre-monsoon and post-monsoon seasons.* [Access the full text here](https://doi.org/10.1016/j.jhydrol.2025.133207)."
+
+- date: 13 Mar, 2025
+  headline: "[CaMa-Flood benchmark framework](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004379)"
+  description: "*We introduced a novel benchmark system to assess and compare the performance of global flood models by integrating in-situ river discharge observations and remote sensing data, enabling the evaluation of model performance in areas with limited ground observations.* [Read it here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004379)."
+
 - date: 11 Dec, 2024
   headline: "[Menaka presented in AGU@Washington D.C.](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497)"
   description: "*Menaka Revel spoke at AGU's H33V session on Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands, where he presented on the use of satellite data to improve the accuracy of hydrological models, with a particular emphasis on capturing lake dynamics and surface water behavior.* [See the abstract here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497)."
@@ -20,7 +28,7 @@
 
 - date: 7 Feb, 2023
   headline: "[Amazon floodplain study published](https://doi.org/10.1088/1748-9326/acb9a7)"
-  description: "*Our study found a 23% increase in annual maximum floods in the Amazon since 1980.* [Read the paper](https://doi.org/10.1088/1748-9326/acb9a7)."
+  description: "*Our study found a 23% increase in annual maximum floods in the Amazon since 1980. A co-authored paper was published in Remote Sensing of Environment, [How much inundation occurs in the Amazon River basin?](https://doi.org/10.1016/j.rse.2022.113099), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). This study compares 29 inundation datasets from remote sensing/hydrological modeling. The intercomparison can be viewed in [WebGIS application](https://amazon-inundation.herokuapp.com/).* [Read the paper](https://doi.org/10.1088/1748-9326/acb9a7)."
 
 - date: 2 Feb, 2023
   headline: "[Satellite altimetry assimilation methods](https://doi.org/10.5194/hess-27-647-2023)"

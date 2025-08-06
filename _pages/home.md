@@ -6,15 +6,17 @@ sitemap: false
 permalink: /
 ---
 # Welcome!
+I pursued the intersection of data assimilation, remote sensing, and hydrological modeling during my training as an environmental modeler and hydrologist. By incorporating satellite measurements like altimetry and SWOT into routing models like [CaMa-Flood]("https://hydro.iis.u-tokyo.ac.jp/~yamadai/cama-flood/"), and [Raven]("https://raven.uwaterloo.ca/"), my study aims to improve the realism and forecasting ability of large-scale hydrological models.
 
-Currently, I am working as a postdoctoral fellow at the [Department of Civil and Environmental Engineering, Faculty of Engineering, University of Waterloo]("https://uwaterloo.ca/civil-environmental-engineering/"). 
+Currently, I am working as a postdoctoral fellow in the [Department of Civil and Environmental Engineering, Faculty of Engineering, University of Waterloo]("https://uwaterloo.ca/civil-environmental-engineering/"), where I contribute to the [Hydrology Group]("https://uwaterloo.ca/scholar/btolson/people-0").
 
-Please visit the Hydrology group at the University of Waterloo [here]("https://uwaterloo.ca/scholar/btolson/people-0")
+Please visit the Hydrology group at the University of Waterloo [here]("https://uwaterloo.ca/scholar/btolson/people-0").
 
-I previously worked as a Project Researcher in [Global Hydrodynamics Lab]("https://global-hydrodynamics.github.io/") in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/") from Oct 2019 to Aug 2023. In the Global Hydrodynamics Lab, we are working on freshwater dynamics on a global scale using modeling, remote sensing, and model data integration.
+Previously, I served as a Project Researcher in the [Global Hydrodynamics Lab]("https://global-hydrodynamics.github.io/") in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/") from Oct 2019 to Aug 2023. There, I collaborated on projects that explored freshwater dynamics on a global scale using modeling, remote sensing, and model-data integration.
 
-Please visit Global Hydrodynamics Lab [here]("https://global-hydrodynamics.github.io/").
+Please visit Global Hydrodynamics Lab at the University of Tokyo [here]("https://global-hydrodynamics.github.io/").
 
+My dedication to open science and data accessibility has been a recurring theme in my work. Through user-centered, web-based platforms, I actively create tools and procedures that facilitate the exchange of data, model configurations, and research outcomes. The goal of my work is to close the gap between large end-user groups and sophisticated hydrological systems. Please visit my [GitHub page]("https://github.com/menaka-revel").
 
 ## Research Interests
 My primary research interests are hydrological modeling and integrating remote sensing data into models. Currently, I am modelling Canadian lake-dominated watersheds and calibrating the models using remote sensing data such as SWOT. Previously, I have been working on data assimilation into hydrodynamic modeling using satellite altimetry data. I am also involved in developing [CaMa-Flood]("https://github.com/global-hydrodynamics/CaMa-Flood_v4") hydrodynamic model for a better representation of global fresh water.
@@ -42,16 +44,16 @@ A co-authored paper was published in Water Resources Research, [Multivariable In
 A co-authored paper was published in Remote Sensing of Environment, [How much inundation occurs in the Amazon River basin?](https://doi.org/10.1016/j.rse.2022.113099), led by [Ayan Santos Fleischmann](https://www.ufrgs.br/lsh/team/phd-students/ayan-santos-fleischmann/). This study compares 29 inundation datasets from remote sensing/hydrological modeling. The intercomparison can be viewed in [WebGIS application](https://amazon-inundation.herokuapp.com/).
 
 ### 29 Mar, 2022
-A Journal paper has been published in Water Resourses Reasearch. [Correction of river bathymetry parameters using the stage-discharge rating curve]("https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226"), A method to correct river bathymetry parameter using satellite and insitu data using stage-discharge relationship was prposed.
+A Journal paper has been published in Water Resources Research. [Correction of river bathymetry parameters using the stage-discharge rating curve]("https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR031226"), A method to correct river bathymetry parameter using satellite and in-situ data using stage-discharge relationship was proposed.
          
 ### 8 Dec, 2020
-A Journal paper has been published in Water Resourses Reasearch.[A framework for estimating global-scale river discharge by assimilating satellite altimetry]("https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876"), A framwork for global-scale discharge estimation using data assimilation of SWOT satellite data was prposed.
+A Journal paper has been published in Water Resources Research.[A framework for estimating global-scale river discharge by assimilating satellite altimetry]("https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020WR027876"), A framework for global-scale discharge estimation using data assimilation of SWOT satellite data was proposed.
          
 ### 01 Oct, 2019
-Strated working as a Project Researcher in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/")
+Started working as a Project Researcher in [Institute of Industrial Science]("https://www.iis.u-tokyo.ac.jp/en/"), [The University of Tokyo]("https://www.u-tokyo.ac.jp/en/")
    
 ### 20 Sept, 2019
 Graduated Ph.D. from [Tokyo Institute of Technology]("https://www.titech.ac.jp/english/").
    
 ### 19 April, 2019
-A Journal paper has been published in Water. [A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental-Scale River: A Case Study in the Congo Basin]("https://www.mdpi.com/2073-4441/11/4/829"), A novel apporach to hydrological data assimilation was prposed. -->
+A Journal paper has been published in Water. [A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental-Scale River: A Case Study in the Congo Basin]("https://www.mdpi.com/2073-4441/11/4/829"), A novel approach to hydrological data assimilation was proposed. -->
