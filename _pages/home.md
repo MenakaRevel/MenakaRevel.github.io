@@ -25,6 +25,11 @@ My primary research interests are hydrological modeling and integrating remote s
 
 {% include slider.html %}
 
+My research activity is summarized in:
+- [Research](./products/)
+- [Publications](./publications/)
+- [Blog](./blog/)
+
 <!-- ## Recent Updates
 ### 8 Jan, 2024
 A data description paper was published in Earth System Science Data, [AltiMaP: altimetry mapping procedure for hydrography data](https://doi.org/10.5194/essd-16-75-2024). In this study, we developed an automated method to allocate satellite altimetry data on rivers to global hydrodynamic models.
