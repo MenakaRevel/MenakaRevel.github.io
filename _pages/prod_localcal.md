@@ -18,7 +18,7 @@ The discharge is predominantly influenced by Baseflow parameters, leading to a 0
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_senspara.jpg" width="50%" height="50%"/>
 
 ### Local vs Global Calibration
-Throughout the calibration period, all the calibration gauges either showed improvements or maintained consistent performance with local calibration when compared to global calibration. Specifically, 39 out of 44 gauges demonstrated a difference in the accuracy metric that was greater than 0.1. As anticipated during the validation process, certain gauges demonstrate a deterioration in local calibration both temporally and spatially. However, it is noteworthy that the majority of temporal validations indicate an enhancement in local calibration, with a percentage of 62.2%.
+Throughout the calibration period, all the calibration gauges either showed improvements or maintained consistent performance with local calibration when compared to global calibration. Specifically, 39 out of 44 gauges demonstrated a difference in the accuracy metric that was greater than 0.1. As anticipated during the validation process, certain gauges demonstrate a deterioration in local calibration both temporally and spatially. However, it is noteworthy that the majority of temporal validations indicate an enhancement in local calibration, with a percentage of 62.2%.<br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_mapdiffkge.jpg" width="50%" height="50%"/>
 
 - [Revel et al, (2025) in preparation]
