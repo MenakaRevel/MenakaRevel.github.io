@@ -32,6 +32,14 @@ Satellite altimetry is an essential tool for monitoring river water levels and e
 
 [Read more ....](../prod_altimap/)
 
+<br>
+
+## [Local Calibration of River Routing Model](../prod_localcal/)
+Accurate representation of surface hydrology is crucial in lake-dominated Canadian Shield watersheds. Spatial heterogeneity of conditions (e.g., soil, geology, terrain, vegetation, etc.) is highly influential in predicting accurate water dynamics. Since observations are sparse, calibrating the models locally is challenging. Therefore, different types of regionalization methods were used to transfer parameters to ungauged basins. These methods primarily depend on various physical characteristics of the watershed to identify similar catchments, which leads to reduced performance. To effectively address these limitations, we have developed a calibration strategy that precisely defines a subregion, strategically considering the river topology. We implemented this calibration strategy in the Ottawa River basin, located in southeastern Ontario, Canada.
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_localcal.jpg" width="50%" height="50%"/>
+
+[Read more ....](../prod_localcal/)
+
 <!--
 - Calibration of the hydrological model using remote sensing data(../lakecal/)
 - Innovative local calibration of the river routing model(../mulcal/)
