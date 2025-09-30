@@ -6,6 +6,7 @@ permalink: /prod_localcal/
 ---
 ## Local Calibration of River Routing Model
 Accurate representation of surface hydrology is crucial in lake-dominated Canadian Shield watersheds. Spatial heterogeneity of conditions (e.g., soil, geology, terrain, vegetation, etc.) is highly influential in predicting accurate water dynamics. Since observations are sparse, calibrating the models locally is challenging. Therefore, different types of regionalization methods were used to transfer parameters to ungauged basins. These methods primarily depend on various physical characteristics of the watershed to identify similar catchments, which leads to reduced performance. To effectively address these limitations, we have developed a calibration strategy that precisely defines a subregion, strategically considering the river topology. We implemented this calibration strategy in the Ottawa River basin, located in southeastern Ontario, Canada.
+<img src="{{ site.url }}{{ site.baseurl }}/images/prodpic/prod_localcal.jpg" width="50%" height="50%"/>
 
 ### Global Calibration
 The predominant approach for calibrating regional river routing models involves leveraging multiple observations to derive a unified set of parameters applicable across entire regions. We utilized the Dynamically Dimensioned Search (DDS) algorithm to optimize the average evaluation metrics across all observations, enhancing the performance and reliability of our analysis.
