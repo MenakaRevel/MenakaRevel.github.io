@@ -1,0 +1,12 @@
+---
+title: "Menaka Revel - Blog"
+layout: pagelay
+sitemap: false
+permalink: /blog_satellitewater/
+---
+
+## Remote Sensing of Terrestrial Waters
+The availability of an in-situ global monitoring system is often hampered by the unavailability of accurate, complete, and freely accessible data. In the age of satellite big data, a wealth of information gathered from space is accessible for monitoring terrestrial waters. Satellite data serves as a crucial supplement to the limited in-situ gauging networks, particularly in developing countries where ground-level monitoring may be insufficient. We observe several types of satellite data available, including satellite altimetry, water surface extent, soil moisture, total water storage, and more.
+
+### Satellite altimetry
+Understanding water surface elevation is essential for comprehending the dynamics of surface water in hydrology. An alternative approach to measuring water surface elevations, aside from conventional gauging methods, is satellite altimetry. While satellite altimetry was not initially designed for inland water surveying, it has been effectively adapted for this purpose. This technology enables precise measurement ranging from a few centimeters to a few decimeters of water surface elevation, allowing for accurate monitoring of changes in lakes, rivers, and reservoirs. Satellite altimeters gauge water surface elevations by analyzing the difference in travel time of radar or laser signals sent from the satellite to the water surface. By comparing the satellite's orbital position with the altimetry range measurements, which are calculated from the travel time of radar or laser, we can accurately assess the height of the water surface. Also, this measurement process incorporates adjustments for various atmospheric conditions, including effects from the dry and wet troposphere, the ionosphere, and solid Earth tides. A variety of radar altimetry missions have been utilized to monitor lakes and major rivers, which include the Topography Experiment (TOPEX)/Poseidon; European Remote Sensing (ERS)-1 and ERS-2; the Joint Altimetry Satellite Oceanography Network (Jason)-1, Jason-2, and Jason-3; GEOSTAT Follow On (GFO); Environmental Satellite (ENVISAT); the Satellite with ARGOS and ALTIKA (SARAL)-AltiKa; as well as Sentinel-3A, Sentinel-3B, Sentinel-6MF, and the Surface Water and Ocean Topography Mission (SWOT).
