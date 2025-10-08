@@ -33,14 +33,12 @@ The availability of an in-situ global monitoring system is often hampered by the
 [Read more...](../blog_satellitewater/)
 
 <br>
-<!--
-
+<!-- 
 - [Can SWOT see smaller lakes: SWOT performance in Canada and Sri Lanka]
 - [Building Local Models using Local Calibration]
 - Compare CLRH and GHSA
 - Lake water level variation in Canada
 - Flood Risk in Canada
 - Computational efficiency of Raven in Continental-scale Rivers
-- Local calibration approaches for Hydrological modelling
+- Local calibration approaches for Hydrological modelling -->
 
--->
