@@ -99,3 +99,26 @@ firstp {
     svg-icon: grey;
     vertical-align: text-bottom;
 }
+
+/* Table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5em 0;
+    font-size: 0.95em;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #fafafa;
+  }  

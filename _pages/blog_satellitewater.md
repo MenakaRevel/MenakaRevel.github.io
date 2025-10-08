@@ -16,6 +16,7 @@ A variety of radar altimetry missions have been utilized to monitor lakes and ma
 <br>
 
 #### Table 1: List of major databases providing surface water elevation time series over inland water bodies from radar altimetry.
+<div style="overflow-x:auto;">
 | Name of the Database                                                                 | Types of Water Body       | Producer                                                                                      |
 |--------------------------------------------------------------------------------------|----------------------------|------------------------------------------------------------------------------------------------|
 | [River & Lake](https://altimetry.esa.int/riverlake/shared/main.html)                 | Rivers, Lakes, Reservoirs  | De Montfort University                                                                         |
@@ -24,3 +25,4 @@ A variety of radar altimetry missions have been utilized to monitor lakes and ma
 | [G-REALM](https://ipad.fas.usda.gov/cropexplorer/global_reservoir/)                 | Lakes and Reservoirs       | USDA NASA                                                                                     |
 | [GRRATS](http://research.bpcrc.osu.edu/grrats)                                       | Rivers                     | Ohio State University                                                                          |
 | [HydroSat](https://hydrosat.gis.uni-stuttgart.de/php/index.php)                      | River                      | Institute of Geodesy, University of Stuttgart                                                  |
+</div>
