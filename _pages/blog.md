@@ -25,6 +25,14 @@ Over the past ten years or so, flood hazard modeling has taken some big steps fo
 
 <br>
 
+## [Remote Sensing of Terrestrial Waters](../blog_satellitewater/)
+The availability of an in-situ global monitoring system is often hampered by the unavailability of accurate, complete, and freely accessible data. In the age of satellite big data, a wealth of information gathered from space is accessible for monitoring terrestrial waters. Satellite data serves as a crucial supplement to the limited in-situ gauging networks, particularly in developing countries where ground-level monitoring may be insufficient. We observe several types of satellite data available, including satellite altimetry, water surface extent, soil moisture, total water storage, and more.
+
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/blogpic/blog_satellitewater.jpg" width="50%" height="50%"/> -->
+
+[Read more...](../blog_satellitewater/)
+
+<br>
 <!--
 
 - [Can SWOT see smaller lakes: SWOT performance in Canada and Sri Lanka]
