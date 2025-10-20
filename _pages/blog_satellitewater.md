@@ -65,4 +65,65 @@ Accurate and timely data about soil moisture is important for forecasting natura
 <br>
 
 #### Table 3: List of available satellites to measure soil moisture.
-<div style="overflow-x:auto;"> <table style="width:100%; border-collapse:collapse; margin:1.5em 0; font-size:0.95em;"> <thead style="background-color:#f7f7f7; font-weight:600;"> <tr> <th style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Satellite / Product</th> <th style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Sensor / Instrument</th> <th style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Spectral Domain</th> <th style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Spatial Resolution</th> <th style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Temporal Resolution</th> </tr> </thead> <tbody> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">AMSR2 (LPRM L3 V001)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">AMSR2 / GCOM-W1 (passive microwave radiometer)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Passive)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">~47 km</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">1–3 days</td> </tr> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">ASCAT</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">ASCAT (scatterometer)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Active)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">~30 km</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">1–2 days</td> </tr> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">SMAPL3E (SPL3SMP_E.003)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">SMAP radiometer (enhanced radiometer product)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Passive)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">~30 km</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">1–3 days</td> </tr> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">SMOS (MIR_SMUDP2 V650)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">SMOS (L-band radiometer)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Passive, L-band)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">~40 km</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">1–3 days</td> </tr> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">ESA-CCI SM V04.4 (COMBINED)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Multi-sensor (AMW & PMW merged)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Active + Passive, merged)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">0.25°</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Daily</td> </tr> <tr> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">MeMo (this study)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Multi-sensor merged PMW (AMSR2, SMAP, SMOS)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">Microwave (Passive, merged)</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">0.1°</td> <td style="border:1px solid #ddd; padding:8px 12px; text-align:left;">3-hourly</td> </tr> </tbody> </table> </div>
+<div style="overflow-x:auto;">
+<table style="width:100%; border-collapse:collapse; margin:1.5em 0; font-size:0.93em;">
+<thead style="background-color:#f7f7f7; font-weight:600;">
+<tr>
+<th style="border:1px solid #ddd; padding:8px 12px;">Satellite / Product</th>
+<th style="border:1px solid #ddd; padding:8px 12px;">Mission / Platform</th>
+<th style="border:1px solid #ddd; padding:8px 12px;">Sensor / Instrument</th>
+<th style="border:1px solid #ddd; padding:8px 12px;">Spectral Domain / Measurement Type</th>
+<th style="border:1px solid #ddd; padding:8px 12px;">Spatial Resolution</th>
+<th style="border:1px solid #ddd; padding:8px 12px;">Temporal Resolution</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td style="border:1px solid #ddd; padding:8px 12px;">ASCAT</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">MetOp-A/B/C</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Advanced Scatterometer (C-band, Active)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Microwave (Active, Backscatter-based)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">~25–30 km</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">1–2 days</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ddd; padding:8px 12px;">AMSR2 (LPRM L3 V001)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">GCOM-W1 (JAXA)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Advanced Microwave Scanning Radiometer 2 (Passive)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Microwave (Passive, 6.9–89 GHz)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">~47 km</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">1–3 days</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ddd; padding:8px 12px;">SMAP L3E (SPL3SMP_E.003)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">NASA SMAP Mission</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">L-band Radiometer (Passive)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Microwave (Passive, ~1.4 GHz)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">~9 km (Enhanced L3)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Daily (1 day)</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ddd; padding:8px 12px;">SMOS (MIR_SMUDP2 V650)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">ESA SMOS Mission</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">L-band Microwave Radiometer (MIRAS)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Microwave (Passive, L-band)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">~35–50 km</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">1–3 days</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #ddd; padding:8px 12px;">GMI (GPM Microwave Imager)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">GPM Core Observatory (NASA & JAXA)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Multifrequency Radiometer (10–183 GHz)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">Microwave (Passive, Multi-channel)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">~10–15 km (Varies by frequency)</td>
+<td style="border:1px solid #ddd; padding:8px 12px;">2–3 days</td>
+</tr>
+
+</tbody>
+</table>
+</div>
