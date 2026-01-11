@@ -1,5 +1,18 @@
 ## Publication list
+# FY2026
+# FY2026
 # FY2025
+- ID: C11)
+  title: "Estimation of Water Elevation Using ICESat-2 Satellite"
+  image:
+  authors: "Madumalsha C., Nawoda I., Neluwala P08., & Revel M."
+  description:
+  link:
+    url: https://doi.org/10.4038/engineer.v58i1.7674
+    display: "Engineer: Journal of the Institution of Engineers, Sri Lanka, 58(1), https://doi.org/10.4038/engineer.v58i1.7674, 2025"
+  highlight: 0
+  rlab: 0
+  news2:
 - ID: C10)
   title: "How Spatial Resolutions Impact the Large-scale River Hydrodynamic Model Simulations: Analysis Focuses on Model Physics"
   image:
