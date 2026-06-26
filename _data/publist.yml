@@ -1,9 +1,20 @@
 ## Publication list
 # FY2026
+- ID: C13)
+  title: "A 4-km long-term (1952–2025) daily hydrometeorological dataset for the western United States"
+  image:
+  authors: "Madakumbura, G.D., Abolafia-Rosenzweig, R., He, C., Jones, J., He, Q., Revel, M., Wang, B., & Williams, P."
+  description:
+  link:
+    url: https://doi.org/10.1038/s41597-026-07642-0
+    display: "Scientific Data, , https://doi.org/10.1038/s41597-026-07642-0, 2026"
+  highlight: 0
+  rlab: 0
+  news2:
 - ID: C12)
   title: "Application of real-time data assimilation system to improve streamflow forecasts in Japan"
   image:
-  authors: "Liu Y., Yoshimura, K., Revel M., & Zhu Y."
+  authors: "Liu Y., Yoshimura, K., Revel, M., & Zhu, Y."
   description:
   link:
     url: https://doi.org/10.1016/j.jhydrol.2026.135680

@@ -1,3 +1,7 @@
+- date: 25 June, 2026
+  headline: "[WHiLD-HM: A high resolution daily hydrometeorological dataset for the western United States](https://doi.org/10.1038/s41597-026-07642-0)"
+  description: "*This study introduces the Western U.S. High-resolution Long-term Dataset for HydroMeteorology (WHiLD-HM), a 4-km spatial resolution, spatiotemporally continuous daily dataset covering 1952–2025 across the western United States."
+
 - date: 20 May, 2026
   headline: "[Application of HydroDA for real-time data assimilation](https://doi.org/10.1016/j.jhydrol.2026.135680)"
   description: "*[HydroDA system](https://hess.copernicus.org/articles/27/647/2023/), integrated with CaMa-Flood, delivers robust real-time streamflow forecasting capabilities."
