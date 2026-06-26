@@ -3,7 +3,7 @@
 - ID: C13)
   title: "A 4-km long-term (1952–2025) daily hydrometeorological dataset for the western United States"
   image:
-  authors: "Madakumbura, G.D., Abolafia-Rosenzweig, R., He, C., Jones, J., He, Q., Revel, M., Wang, B., & Williams, P."
+  authors: "Madakumbura, G.D., Abolafia-Rosenzweig, R., He, C., Jones, J., He, Q., <span class='highlight-author'>Revel, M.</span>, Wang, B., & Williams, P."
   description:
   link:
     url: https://doi.org/10.1038/s41597-026-07642-0
@@ -14,7 +14,7 @@
 - ID: C12)
   title: "Application of real-time data assimilation system to improve streamflow forecasts in Japan"
   image:
-  authors: "Liu Y., Yoshimura, K., Revel, M., & Zhu, Y."
+  authors: "Liu Y., Yoshimura, K., <span class='highlight-author'>Revel, M.</span>, & Zhu, Y."
   description:
   link:
     url: https://doi.org/10.1016/j.jhydrol.2026.135680
@@ -49,7 +49,7 @@
 - ID: C9)
   title: "Climate change and ENSO significantly enhances seasonal flood occurrence in the Ganges-Brahmaputra-Meghna basin"
   image:
-  authors: "Uddin, S., Yamazaki, D., Lintern, A., Revel, M., & Modi, P. "
+  authors: "Uddin, S., Yamazaki, D., Lintern, A., <span class='highlight-author'>Revel, M.</span>, & Modi, P. "
   description:
   link:
     url: https://doi.org/10.1016/j.jhydrol.2025.133207
@@ -60,7 +60,7 @@
 - ID: C8)
   title: "Benchmark Framework for Global River Models"
   image:
-  authors: "Zhou, X., Yamazaki, D., Revel, M., Zhao, G., & Modi, P."
+  authors: "Zhou, X., Yamazaki, D., <span class='highlight-author'>Revel, M.</span>, Zhao, G., & Modi, P."
   description:
   link:
     url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004379
@@ -73,7 +73,7 @@
 - ID: P15)
   title: "Satellite Data Integration in Hydrological Modeling: Assessing the CanadianShield Watershed's Lake Dynamics"
   image:
-  authors: "Revel, M., Tolson, B., Han, M., Metcalfe, R., & Craig, J."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Tolson, B., Han, M., Metcalfe, R., & Craig, J."
   description: "H33V - Remote Sensing of Rivers, Lakes, Reservoirs, and Wetlands I Oral"
   link:
     url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1693497
@@ -84,7 +84,7 @@
 - ID: P14)
   title: "Integrating SWOT Observations into CaMa-Flood: A Data Assimilation Framework for enhancing Surface Water DynamicsEstimation"
   image:
-  authors: "Revel, M., & Yamazaki, D."
+  authors: "<span class='highlight-author'>Revel, M.</span>, & Yamazaki, D."
   description: "H31Z - The Surface Water and Ocean Topography (SWOT) Mission: New Frontiers in Hydrology V Poster"
   link:
     url: https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1520802
@@ -95,7 +95,7 @@
 - ID: P13)
   title: "Harnessing Landsat Observations of Lakes for Enhanced HydrologicalModelling in Canadian Shield Watersheds"
   image:
-  authors: "Revel, M., Tolson, B., Han, M., Metcalfe, R., & Craig, J."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Tolson, B., Han, M., Metcalfe, R., & Craig, J."
   description: "H4B. Hydrometeorology of lakes and reservoirs"
   link:
     url: https://www.meet-here.ca/CGU2024/session/2211991/harnessing-landsat-observations-of-lakes-for-enhanced-hydrological-modelling-in-canadian-shield-watersheds
@@ -106,7 +106,7 @@
 - ID: R7)
   title: "AltiMaP: altimetry mapping procedure for hydrography data"
   image: Revel2024ESSD.jpg
-  authors: "Revel, M., Zhou, X., Modi, P., Cretaux, J.-F., Calmant, S., & Yamazaki, D."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Zhou, X., Modi, P., Cretaux, J.-F., Calmant, S., & Yamazaki, D."
   description:
   link:
     url: https://doi.org/10.5194/essd-16-75-2024
@@ -118,7 +118,7 @@
 - ID: P12)
   title: "Leveraging SWOT Observations for Improved Water Management: Data Assimilation ofHuman-Regulated River Discharge in Large Rivers"
   image:
-  authors: "Revel, M., Boulange, J. Yamazaki, D., & Hanasaki, N."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Boulange, J. Yamazaki, D., & Hanasaki, N."
   description: "[A-CG42] Water and sediment dynamics from land to coastal zones"
   link:
     url: https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1334632
@@ -129,7 +129,7 @@
 - ID: P11)
   title: "Data Assimilation for Estimating Human-Regulated River Flow Dynamics"
   image:
-  authors: "Revel, M., Boulange, J. Yamazaki, D., & Hanasaki, N."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Boulange, J. Yamazaki, D., & Hanasaki, N."
   description: "[A-CG42] Water and sediment dynamics from land to coastal zones"
   link:
     url: https://confit.atlas.jp/guide/event/jpgu2023/subject/ACG42-08/advanced
@@ -140,7 +140,7 @@
 - ID: C7)
   title: "Quantifying the relative contributions of climate change and ENSO to flood occurrence in Bangladesh"
   image:
-  authors: "Uddin, S., Revel, M., Modi, P., & Yamazaki, D."
+  authors: "Uddin, S., <span class='highlight-author'>Revel, M.</span>, Modi, P., & Yamazaki, D."
   description:
   link:
     url: https://iopscience.iop.org/article/10.1088/1748-9326/acfa11
@@ -151,7 +151,7 @@
 - ID: C6)
   title: "Res-CN (Reservoir dataset in China): hydrometeorological time series and landscape attributes across 3254 Chinese reservoirs"
   image:
-  authors: "Shen, Y., Nielsen, K., Revel, M., Liu, D., & Yamazaki, D."
+  authors: "Shen, Y., Nielsen, K., <span class='highlight-author'>Revel, M.</span>, Liu, D., & Yamazaki, D."
   description:
   link:
     url: https://doi.org/10.5194/essd-15-2781-2023
@@ -162,7 +162,7 @@
 - ID: C5)
   title: "Increased floodplain inundation in the Amazon since 1980"
   image:
-  authors: "Fleischmann, A., Papa, F., Hamilton, S. K., Fassoni-Andrade, A., Wongchuig, S., Espinoza, J. C., Paiva, R., Melack, J., Fluet-Chouinard, E., Castello, L., Almeida, R., Bonnet, M. P., Alves, L. G., Moreira, D., Yamazaki, D., Revel, M., & Collischonn, W."
+  authors: "Fleischmann, A., Papa, F., Hamilton, S. K., Fassoni-Andrade, A., Wongchuig, S., Espinoza, J. C., Paiva, R., Melack, J., Fluet-Chouinard, E., Castello, L., Almeida, R., Bonnet, M. P., Alves, L. G., Moreira, D., Yamazaki, D., <span class='highlight-author'>Revel, M.</span>, & Collischonn, W."
   description:
   link:
     url: https://doi.org/10.1088/1748-9326/acb9a7
@@ -173,7 +173,7 @@
 - ID: R6)
   title: "Assimilation of transformed water surface elevation to improve river discharge estimation in a continental-scale river"
   image: Revel2023HESS.jpg
-  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Zhou, X., Yamazaki, D., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.5194/hess-27-647-2023
@@ -186,7 +186,7 @@
 - ID: P10)
   title: "Global Discharge Estimation By Assimilating Satellite Altimetry with the Current Limitations of the Hydrodynamic Models in the perspective of SWOT mission"
   image:
-  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Zhou, X., Yamazaki, D., & Kanae, S."
   description: "OS25C: The Surface Water and Ocean Topography (SWOT) Mission: A New Satellite for Earth's Water Cycle III Oral"
   link:
     url: https://eppro01.ativ.me/web/page.php?page=IntHtml&project=AGU22&id=p1137876
@@ -197,7 +197,7 @@
 - ID: P9)
   title: "Ability of assimition of satellite altimetry to estimate river discharge"
   image:
-  authors: "Revel, M., Zhou, X., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Zhou, X., Yamazaki, D., & Kanae, S."
   description: "Society of Hydrology and Water Resources"
   link:
     url: 
@@ -208,7 +208,7 @@
 - ID: C4)
   title: "Multivariable Integrated Evaluation of Hydrodynamic Modeling: A Comparison of Performance Considering Different Baseline Topography Data"
   image:
-  authors: "Modi, P., Revel, M., & Yamazaki, D.,"
+  authors: "Modi, P., <span class='highlight-author'>Revel, M.</span>, & Yamazaki, D.,"
   description:
   link:
     url: https://doi.org/10.1029/2021WR031819
@@ -219,7 +219,7 @@
 - ID: C3)
   title: "How much inundation occurs in the Amazon River basin?"
   image:
-  authors: "Fleischmann, A., Papa, F., Fassoni-Andrade, A., Melack, J., Wongchuig, S., Dias De Paiva, R., Hamilton, S., Fluet-Chouinard, E., Barbedo, R., Aires, F., Bitar, A., Bonnet, M., Coe, M., Ferreira-Ferreira, J., Hess, L., Jensen, K., Mcdonald, K., Ovando, A., Park, E., Parrens, M., Pinel, S., Prigent, C., Resende, A., Revel, M., Rosenqvist, A., Rosenqvist, J., Rudorff, C., Silva, T., Yamazaki, D., & Collischonn, W."
+  authors: "Fleischmann, A., Papa, F., Fassoni-Andrade, A., Melack, J., Wongchuig, S., Dias De Paiva, R., Hamilton, S., Fluet-Chouinard, E., Barbedo, R., Aires, F., Bitar, A., Bonnet, M., Coe, M., Ferreira-Ferreira, J., Hess, L., Jensen, K., Mcdonald, K., Ovando, A., Park, E., Parrens, M., Pinel, S., Prigent, C., Resende, A., <span class='highlight-author'>Revel, M.</span>, Rosenqvist, A., Rosenqvist, J., Rudorff, C., Silva, T., Yamazaki, D., & Collischonn, W."
   description:
   link:
     url: https://doi.org/10.1016/j.rse.2022.113099
@@ -230,7 +230,7 @@
 - ID: P8)
   title: "Prospects of Assimilating Remote Sensing Data into a Hydrodynamic Model in Amazon Basin"
   image:
-  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Yamazaki, D., & Kanae, S."
   description: "[A-CG45] Water and sediment dynamics from land to coastal zones"
   link:
     url: https://confit.atlas.jp/guide/event/jpgu2022/session/ACG45_26AM2/tables?KlgYzDVKtS
@@ -241,7 +241,7 @@
 - ID: C2)
   title: "Correction of river bathymetry parameters using the stage-discharge rating curve"
   image:
-  authors: "Zhou, X., Revel, M., Modi, P., Shiozawa, T., & Yamazaki, D."
+  authors: "Zhou, X., <span class='highlight-author'>Revel, M.</span>, Modi, P., Shiozawa, T., & Yamazaki, D."
   description:
   link:
     url:  https://doi.org/10.1029/2021WR031226
@@ -254,7 +254,7 @@
 - ID: R5)
   title: "A framework for estimating global-scale river discharge by assimilating satellite altimetry"
   image: Revel2020WRR.jpg
-  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Ikeshima, D., Yamazaki, D., & Kanae, S."
   description:
   link:
     url:  https://doi.org/10.1029/2020WR027876
@@ -265,7 +265,7 @@
 - ID: P7)
   title: "Potential of Assimilating Satellite Altimetry Data into a Continental-Scale River Routing Model"
   image:
-  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Ikeshima, D., Yamazaki, D., & Kanae, S."
   description: "H15S: Surface Water Hydrology from SWOT, NISAR, and ICESat-2"
   link:
     url: https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/936579
@@ -278,7 +278,7 @@
 - ID: C1)
   title: "Global 5-ARCMIN Resolution Water Resource Assessment Using the H08 Global Hydrological Model"
   image:
-  authors: "Keisuke, D., Revel, M., Hanasaki, N., & Kanae, S."
+  authors: "Keisuke, D., <span class='highlight-author'>Revel, M.</span>, Hanasaki, N., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.2208/jscejhe.76.2_I_109
@@ -289,7 +289,7 @@
 - ID: P6)
   title: "Estimating River Discharge by Assimilating SWOT Observations using a Physically Based Empirical Localization Method"
   image:
-  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Ikeshima, D., Yamazaki, D., & Kanae, S."
   description: "H040: The Surface Water and Ocean Topography (SWOT) Mission: Hydrology and Oceanography and Their Interaction at the Estuaries II Posters"
   link:
     url: https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/688267
@@ -302,7 +302,7 @@
 - ID: R4)
   title: "A Physically Based Empirical Localization Method for Assimilating Synthetic SWOT Observations of a Continental-Scale River: A Case Study in the Congo Basin"
   image: Revel2019Water.jpg
-  authors: "Revel, M., Ikeshima, D., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Ikeshima, D., Yamazaki, D., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.3390/w11040829
@@ -315,7 +315,7 @@
 - ID: R3)
   title: "Model Based Observation Localization Weighting Function for Amazon Mainstream"
   image:
-  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Yamazaki, D., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.2208/jscejhe.74.5_I_157
@@ -326,7 +326,7 @@
 - ID: R2)
   title: "Estimating Global River Bathymetry by Assimilating Synthetic SWOT Measurements"
   image:
-  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Yamazaki, D., & Kanae, S."
   description:
   link:
     url: https://doi.org/10.2208/jscejhe.74.I_307
@@ -337,7 +337,7 @@
 - ID: P5)
   title: "Assimilation of Synthetic SWOT Observations to Improve Global River Bathymetry Using Local Ensemble Transform Kalman Filter"
   image:
-  authors: "Revel, M., Yamazaki, D., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Yamazaki, D., & Kanae, S."
   description: "OS53C: Surface Water and Ocean Topography (SWOT) Mission: Oceanography, Hydrology, and Their Interaction at the Estuaries Posters"
   link:
     url: https://agu.confex.com/agu/fm18/meetingapp.cgi/Paper/344265
@@ -350,7 +350,7 @@
 - ID: P4)
   title: "Seasonal Responses of Pacific Japan Teleconnection on Indo-China Peninsula"
   image:
-  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "[A-CG44] [EE] Asian monsoon hydro-climate and water resources research for GEWEX"
   link:
     url: https://confit.atlas.jp/guide/event/jpguagu2017/subject/E_ACG44-P08/advanced
@@ -363,7 +363,7 @@
 - ID: P3)
   title: "Contribution of Pacific Japan Teleconnection to Different Weather Systems in Thailand Monsoon Domain"
   image:
-  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "Session ID : P17"
   link:
     url: https://doi.org/10.11520/jshwr.29.0_69
@@ -374,7 +374,7 @@
 - ID: P2)
   title: "Predictability of Seasonal Precipitation Intensities Associated with Tropical Cyclones and Disturbances in Indo-China Region"
   image:
-  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "A33J Subseasonal to Seasonal Forecasting of High-Impact Weather and Climate Events I Posters"
   link:
     url: https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/197732
@@ -385,7 +385,7 @@
 - ID: P1)
   title: "The Impact of PJ Index on the Different Precipitation Providing Weather Systems in Indo China Region"
   image:
-  authors: "Revel, M., Utsumi, N., Yoshikawa, S., & Kanae, S."
+  authors: "<span class='highlight-author'>Revel, M.</span>, Utsumi, N., Yoshikawa, S., & Kanae, S."
   description: "A33J Subseasonal to Seasonal Forecasting of High-Impact Weather and Climate Events I Posters"
   link:
     url: http://tmu-rao.jp/wp/wp-content/uploads/2015/11/c4b1a9047021a17ae82beb0e3cb07946.pdf

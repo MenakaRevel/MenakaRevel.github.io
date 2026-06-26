@@ -121,4 +121,9 @@ table {
   
   tr:nth-child(even) {
     background-color: #fafafa;
-  }  
+  }
+
+/* Author Highlight */
+.highlight-author {
+  text-decoration: underline;
+}
